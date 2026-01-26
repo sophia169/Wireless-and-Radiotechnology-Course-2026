@@ -132,9 +132,3 @@ Indoor measurements showed modest variation while staying on the same cell. Outd
 - **Stronger signal + cleaner quality ⇒ better speed + stability**
 - **Weaker signal + noisier quality ⇒ slower, less reliable connectivity**
 
----
-
-## Appendix: Quick “Rule of Thumb” (LTE)
-- **RSRP:** around -80 strong, -95 OK, -110 weak, below -120 very weak
-- **SNR:** >20 great, 10–20 decent, 0–10 poor, <0 bad
-- **RSRQ:** closer to 0 is better; around -3 to -10 good-ish; below -12 poorer
