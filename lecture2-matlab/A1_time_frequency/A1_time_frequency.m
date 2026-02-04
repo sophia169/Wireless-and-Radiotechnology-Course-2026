@@ -1,6 +1,6 @@
 % A1: Time domain and frequency components (FFT)
-% Student: <Name>
-% Student ID: <ID>
+% Student: Trang Dinh
+% Student ID: 2326172
 
 clear; close all; clc;
 
@@ -62,3 +62,4 @@ end
 hold off;
 
 exportgraphics(gcf, 'A1_spectrum.png', 'Resolution', 200);
+
