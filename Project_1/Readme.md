@@ -56,12 +56,3 @@ These midpoint cutoffs help ensure the desired components are passed while nearb
 3. Use the listed **cutoff frequency/frequencies** in your DSP tool/library (MATLAB, Python SciPy, etc.).
 4. Choose filter order/type (Butterworth, Chebyshev, FIR windowed, etc.) based on your required sharpness and stability.
 
-## Example (Conceptual)
-
-- To isolate **200 Hz** only:
-  - Use a **Band Pass Filter** from **150 Hz to 250 Hz**
-  - This suppresses 100 Hz and 300/400 Hz components.
-
-## License
-
-MIT (or replace with your preferred license)
