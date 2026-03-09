@@ -1,0 +1,22 @@
+The purpose of this simulation is to evaluate the performance of WiFi, Bluetooth, and Cellular communication systems over varying distances by analyzing:
+
+- Received Power
+
+- Signal-to-Interference-plus-Noise Ratio (SINR)
+
+- Channel Capacity
+
+Comparative Insights
+
+Technology	Bandwidth	Range		Capacity
+WiFi		High		Short		Very High
+Bluetooth	Medium		Very Short	Moderate
+Cellular	Low		Very Long	Low
+
+WiFi is ideal for high-speed short-range communication.
+
+Bluetooth is suited for very short-range device connections.
+
+Cellular is designed for wide-area communication with large coverage.
+
+The simulation shows that distance significantly affects wireless communication performance. Technologies with higher bandwidth provide higher capacity but usually operate over shorter ranges, while systems designed for long-range communication sacrifice data rate for coverage.
