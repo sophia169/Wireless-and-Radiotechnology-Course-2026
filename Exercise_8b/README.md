@@ -1,4 +1,7 @@
 # RF Planning Studio – Short Analysis Task
+
+<img width="734" height="618" alt="RF_plot" src="https://github.com/user-attachments/assets/0b5da037-f443-46cb-b567-7c7cade27e51" />
+
 ### Increase Gateway Height by +5 m
 Does maximum LOS distance change?
 Yes, it increases slightly (about 2 km improvement).
