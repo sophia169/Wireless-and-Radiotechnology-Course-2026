@@ -31,7 +31,7 @@ Laptop 1 (Cloud Subscriber)
 
 ### 2. IP addresses used : 192.168.116.98
 
-### 3. MQTT topic used: Edge Device to Cloud Communication (MQTT)
+### 3. MQTT topic used: savonia/iot/temperature
 
 ### 4. Screenshot of socket communication: 
 ![lap1](https://github.com/user-attachments/assets/11598d41-b675-4cc7-8679-f07fd04d7950)
@@ -50,7 +50,7 @@ Laptop 1 (Cloud Server)
 
 ### 2. IP addresses used : 192.168.116.98
 
-### 3. MQTT topic used: Full IoT Pipeline (Integration)
+### 3. MQTT topic used: savonia/iot/temperature
 
 ### 4. Screenshot of socket communication: 
 ![lap1](https://github.com/user-attachments/assets/f8c4feca-ee4e-44dd-b3e1-47f22a47b431)
