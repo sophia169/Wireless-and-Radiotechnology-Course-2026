@@ -1,4 +1,4 @@
-# Lab 2 — Multi-Sensor IoT Dashboard
+# Lab 2 - Multi-Sensor IoT Dashboard
 
 ## Project Description
 This project demonstrates a multi-stage IoT data pipeline. A sensor node simulates environmental data (Temperature, Humidity, and Light), transmits it over a TCP socket to an Edge Device, which then forwards the data to an MQTT Broker for visualization in Grafana.
