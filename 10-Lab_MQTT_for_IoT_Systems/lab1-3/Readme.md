@@ -10,7 +10,7 @@ Main Server (Laptop 1)
 
 ### 2. IP addresses used : 192.168.116.98
 
-### 3. MQTT topic used: Sensor to Edge Communication (Socket Programming)
+### 3. MQTT topic used: savonia/iot/temperature
 
 ### 4. Screenshot of socket communication: 
 ![socket_sensor](https://github.com/user-attachments/assets/6520ec1c-e400-40c2-8929-2c94b80d532a)
