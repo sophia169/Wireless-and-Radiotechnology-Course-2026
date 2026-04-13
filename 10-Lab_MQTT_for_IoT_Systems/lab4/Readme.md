@@ -2,7 +2,7 @@
 <img width="274" height="475" alt="{C36032F1-3C4F-4C85-8B84-275DCFAF8B06}" src="https://github.com/user-attachments/assets/ddf045c6-2679-48e8-a841-dd51bcb10ae6" />
 
 ## MQTT topic used
-MQTT Alert System with Telegram
+savonia/iot/temperature
 
 ## Screenshot of Telegram alert
 <img width="454" height="658" alt="{F5121ADA-9B6A-4ADE-B9EE-387817A485A1}" src="https://github.com/user-attachments/assets/3a79d8e4-ea52-48d9-96d1-84ef8372f863" />
